@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&family=Water+Brush&display=swap');
+.header{
+    color: rgb(77, 111, 202);
+    font-size: 50px;
+    font-family:Square Peg;
+    margin-left: 0px;
+    font-weight: bold;
+}
